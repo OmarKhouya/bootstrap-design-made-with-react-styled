@@ -13,6 +13,7 @@ const TitleNav = styled.h3`
     margin: auto;
 `
 const NavList = styled.ul`
+    padding-left: 0.3rem;
     margin: 1rem auto;
     list-style : none;
     display: flex;

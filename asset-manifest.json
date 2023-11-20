@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/bootstrap-design-made-with-react-styled/static/js/main.1517ca32.js",
+    "main.js": "/bootstrap-design-made-with-react-styled/static/js/main.b0bbd882.js",
     "index.html": "/bootstrap-design-made-with-react-styled/index.html",
-    "main.1517ca32.js.map": "/bootstrap-design-made-with-react-styled/static/js/main.1517ca32.js.map"
+    "main.b0bbd882.js.map": "/bootstrap-design-made-with-react-styled/static/js/main.b0bbd882.js.map"
   },
   "entrypoints": [
-    "static/js/main.1517ca32.js"
+    "static/js/main.b0bbd882.js"
   ]
 }

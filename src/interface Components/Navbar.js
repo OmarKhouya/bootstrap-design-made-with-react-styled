@@ -9,7 +9,7 @@ const Navbar = styled.div`
     }
 `
 const TitleNav = styled.h3`
-    padding-left: 0.5rem;
+    padding-left: 2rem;
     margin: auto;
 `
 const NavList = styled.ul`

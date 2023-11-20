@@ -11,7 +11,10 @@ const Navbar = styled.div`
 const TitleNav = styled.h3`
     padding-left: 2rem;
     margin: auto;
-`
+    @media screen and (max-width:370px){
+        display:none!important;
+    }
+`;
 const NavList = styled.ul`
     padding-left: 0.3rem;
     margin: 1rem auto;
@@ -67,7 +70,7 @@ export default function Navbarr(){
     return(
         <Navbar>
             <div>
-                <TitleNav>Start bootstrap</TitleNav>
+                <TitleNav><span>Start bootstrap</span></TitleNav>
                 <NavList>
                     <li>
                         <a href="#">

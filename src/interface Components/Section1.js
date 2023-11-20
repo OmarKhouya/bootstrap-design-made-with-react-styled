@@ -11,10 +11,12 @@ const FirstSection = styled.div`
     color: white;
 `
 const FirstSectionH1= styled.h1`
+    text-align: center;
     font-size: 4rem;
     font-weight: bold;
 `
 const FirstSectionP = styled.p`
+    text-align: center;
     color:grey!important;
 `
 

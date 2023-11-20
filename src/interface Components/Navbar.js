@@ -9,9 +9,11 @@ const Navbar = styled.div`
     }
 `
 const TitleNav = styled.h3`
+    padding-left: 2rem;
     margin: auto;
 `
 const NavList = styled.ul`
+    padding-left: 0.3rem;
     margin: 1rem auto;
     list-style : none;
     display: flex;

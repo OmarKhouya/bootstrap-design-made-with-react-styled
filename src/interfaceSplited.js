@@ -11,7 +11,7 @@ const products = [
 ]
 export default function StyledInterfaceSplitted(){
     return(
-        <div>
+        <div className="m-0">
             <Containerr />
             <FirstSectionn />
             <SecondSectionn products={products} />

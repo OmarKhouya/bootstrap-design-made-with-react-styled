@@ -22,9 +22,9 @@ const Badge = styled.span`
     color: white;
     border-radius: 4px;
     margin-top: 0.2rem;
-    padding: 1px 10px;
+    padding: 3px 10px;
     background-color: #212529;
-    margin-left:-3.3rem;
+    margin-left:-3.7rem;
 `
 const CardBody = styled.div`
     display: flex;
